@@ -1,0 +1,13 @@
+first of all install any java sported IDE(IntelliJ recommended) 
+then
+open the (project_oop) project from the jaavfx_complete project folder zip in IDE
+then
+import javafx library in project through files attached(from libraries to import folder)
+then
+ import my sql-connector file in project (from libraries to import folder)
+then
+ import Jakarta files in project available in (from libraries to import folder)
+then 
+in my sql workbench add the sql script provided in zip and run segment by segment
+
+and you are good to go to view my hospital management system oop project

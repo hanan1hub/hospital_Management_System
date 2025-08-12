@@ -1,7 +1,6 @@
-# hospital_Management_System
 
 
-# 🏥 Hospital Management System
+# 🏥 Hospital Management System (JAVA and JAvafx)
 
 ## 📌 Project Overview
 

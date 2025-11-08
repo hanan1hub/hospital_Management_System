@@ -105,9 +105,9 @@ and you are good to go to view my hospital management system oop project
 
 ## 👥 Authors
 
-- **Hanan Majeed**  – 
+- **Hanan Majeed**  
 
-📄 License
+###📄 License
 This project is licensed under the MIT License.
 
 

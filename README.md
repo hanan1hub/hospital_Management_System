@@ -2,6 +2,10 @@
 
 # 🏥 Hospital Management System (Java and Javafx)
 
+<div align="left">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e132730b-0b85-4711-a277-17a9639d433d" />
+
+
 ## 📌 Project Overview
 
 The **Hospital Management System (HMS)** is a desktop-based JavaFX application designed to streamline and digitize hospital operations. This system supports three types of users—**Admin**, **Doctor**, and **Patient**—and provides a robust interface for managing patient data, appointments, feedback, and more. The application connects with a **MySQL database** to ensure persistent and reliable storage of hospital data.

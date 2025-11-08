@@ -51,7 +51,7 @@ The **Hospital Management System (HMS)** is a desktop-based JavaFX application d
 ---
 
 ## 🗂️ Project Structure
-
+```
 /src
 ├── AdminDashboard.java
 ├── DoctorDashboard.java
@@ -64,7 +64,7 @@ The **Hospital Management System (HMS)** is a desktop-based JavaFX application d
 ├── images
 ├── background.jpg
 └── icons/
-
+```
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:

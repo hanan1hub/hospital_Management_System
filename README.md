@@ -105,11 +105,7 @@ and you are good to go to view my hospital management system oop project
 
 ## 👥 Authors
 
-- **Hanan Majeed**  – JavaFX development, UI styling, database integration,chat & feedback system,Admin dashboard
-
-- **Hamna Shah** – Feature design, patient module, testing
-
-- **Anan Bin Waheed** – Doctor dashboard,validation
+- **Hanan Majeed**  – 
 
 📄 License
 This project is licensed under the MIT License.
